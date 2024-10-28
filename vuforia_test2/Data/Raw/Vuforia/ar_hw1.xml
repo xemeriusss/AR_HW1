@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="img_target_flower" size="5.000000 3.274740" />
+    <ImageTarget name="berry" size="5.000000 6.666667" />
+    <ImageTarget name="avengers" size="1.000000 1.480000" />
+  </Tracking>
+</QCARConfig>
